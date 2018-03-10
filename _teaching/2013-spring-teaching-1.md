@@ -4,12 +4,12 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Mount Saint Vincent University"
-date: 2014-01-01
+date: 2013-05-01
 method: "Via distance (Blackboard Collaborate)"
 location: "Halifax, Nova Scotia, Canada"
 ---
 
-The goal of this credit course is to prepare you to use effective methods and techniques of information gathering, evaluation and presentation. The knowledge gained in this course is intended to prepare undergraduate students to conduct university level library research and beyond.
+Course Description: The goal of this credit course is to prepare you to use effective methods and techniques of information gathering, evaluation and presentation. The knowledge gained in this course is intended to prepare undergraduate students to conduct university level library research and beyond.
 Topics covered include:
 +Critical reading/critical thinking
 +Formulating research questions
