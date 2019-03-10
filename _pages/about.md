@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Roger Gillis, a librarian and digital humanist at Dalhousie University. My diverse background includes: in  Archives, Scholarly Communication, Atlantic Canadian history, and digital humanities. My current interests include: open licensing in cultural heritage, public history, and project management for digital humanities projects. 
+Hi! I’m Roger Gillis, a librarian and digital humanist at Dalhousie University. My diverse background includes: in  Archives, Scholarly Communication, Atlantic Canadian history, and digital humanities. My current interests include: open licensing in cultural heritage, public history, and project management for digital humanities projects. Some of my recent projects include: [Historic Nova Scotia](https://historicnovascotia.ca/) and [Getting Found / Staying Found (2nd edition)](https://docs.pkp.sfu.ca/getting-found-staying-found/en/)
 
 I have an MLIS from the Dalhousie School of Information management and an MA in History (with a focus in Digital Humanities). I’ve also taught research skills for undergraduate students and digital collections for graduate library and information studies. 
 
